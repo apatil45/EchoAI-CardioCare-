@@ -1,4 +1,4 @@
-# Cardiovascular Anomaly Detection
+# CardioCare: Cardiovascular Anomaly Detection
 
 This project uses machine learning to detect cardiovascular anomalies. It applies algorithms like CART, Naïve Bayes, Random Forest, and CNN to classify data, with preprocessing steps such as normalization, feature selection, and dimensionality reduction. The goal is to find the best model for early diagnosis and treatment.
 
